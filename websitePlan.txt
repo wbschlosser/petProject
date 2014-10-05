@@ -1,0 +1,38 @@
+All Due on December 1st, 2014
+
+Sketches due on Oct 13th
+
+
+
+Homepage
+	- Footer: contact info
+	- Local animal shelters
+	- Pet sitter places in the area
+Dogs
+	- Most common breeds
+	- Pitbulls and bully breeds
+	- Dog parks in the area
+	- food and plant dangers
+	- dog food varieties
+	- spaying/neutering
+	- vet stuff
+		- frequency, which to get
+Cats
+	- cat food varieties
+		- dry food
+		- wet food
+	-indoor cats
+	-outdoor cats
+		-tree dwellers
+		-bush dwellers
+	-spaying/neutering
+	- Vet stuff
+		- frequency, which to get
+Sources
+	-Dog
+		-links
+	-Cat
+		-links
+	
+
+Maybe incorporate the pamphlet/flyer into the website somehow

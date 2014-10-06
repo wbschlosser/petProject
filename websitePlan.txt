@@ -18,13 +18,14 @@ Dogs
 	- vet stuff
 		- frequency, which to get
 Cats
+	-most common breeds
+		-indoor cats
+		-outdoor cats
+			-tree dwellers
+			-bush dwellers
 	- cat food varieties
 		- dry food
 		- wet food
-	-indoor cats
-	-outdoor cats
-		-tree dwellers
-		-bush dwellers
 	-spaying/neutering
 	- Vet stuff
 		- frequency, which to get

@@ -3,9 +3,25 @@
 .nav{
 	text-align:center;
 }
+body{
+	margin-left:auto;
+	margin-right:auto;
+}
 
-.banner{
+.banner{/*the main logo goes here*/
 	background-color:#1a1a1a;
 	height:400px;
 	width:400px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.mainsect{
+	background-color:#FFFFFF;
+}
+
+#dogs{
+	background-color:#FFFF00;
+}
+#cats{
+	background-color:#800080;
 }

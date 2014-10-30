@@ -6,22 +6,64 @@
 body{
 	margin-left:auto;
 	margin-right:auto;
+	width:900px;
 }
 
 .banner{/*the main logo goes here*/
 	background-color:#1a1a1a;
-	height:400px;
-	width:400px;
+	height:800px;
+	width:800px;
 	margin-left:auto;
 	margin-right:auto;
 }
 .mainsect{
 	background-color:#FFFFFF;
+	display:block;
+	margin:0px 0px 0px 70px;
+	vertial-align:top;
+	height:auto !important;
 }
 
 #dogs{
 	background-color:#FFFF00;
 }
+
 #cats{
 	background-color:#800080;
+}
+
+#contact{
+	background-color:#FFFF00;
+}
+
+#testing{
+  opacity: 1.0;              /* CSS3 */
+  -moz-opacity: 1.0;         /* Older versions of Firefox */
+  -khtml-opacity: 1.0;       /* Older versions of Safari */
+  filter: alpha(opacity=100); /* Internet Explorer */
+}
+
+.accordionItem h2{ 
+	margin: 0; 
+	font-size: 1.1em; 
+	padding: 0.4em; 
+	color: #fff; 
+	background-color: #944;
+	border-bottom: 1px solid #66d; 
+}
+.accordionItem h2:hover{ 
+	cursor: pointer; 
+}
+.accordionItem div{ 
+	margin: 0; 
+	padding: 1em 0.4em; 
+	background-color: #eef; 
+	border-bottom: 1px solid #66d; 
+}
+.accordionItem.hide h2{ 
+	color: #000; 
+	background-color: #88f; 
+}
+.accordionItem.hide div{ 
+	display: none;
 }

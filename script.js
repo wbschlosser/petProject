@@ -1,8 +1,9 @@
 var images= new Array()
-images[0]="images/junkoMax.jpg";
-images[1]="images/junkoZero.jpg";
-images[2]="images/letgo.jpg";
-images[3]="images/comrades.jpg";
+images[0]="images/petpedia-image1.jpg";
+images[1]="images/petpedia-image2.jpg";
+images[2]="images/petpedia-image3.jpg";
+images[3]="images/petpedia-image4.jpg";
+images[4]="images/petpedia-image5.jpg";
 setInterval("changeImage()",5000);
 var fade = true;
 var x=0;

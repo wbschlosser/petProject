@@ -10,9 +10,7 @@ body{
 }
 
 .banner{/*the main logo goes here*/
-	background-color:#1a1a1a;
-	height:800px;
-	width:800px;
+	background-position:center;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -25,15 +23,18 @@ body{
 }
 
 #dogs{
-	background-color:#FFFF00;
+	background-color:#EA9B47;
 }
 
 #cats{
-	background-color:#800080;
+	background-color:#96CEC7;
+}
+#know{
+	background-color:#EA9B47;
 }
 
 #contact{
-	background-color:#FFFF00;
+	background-color:#939597;
 }
 
 #testing{
@@ -44,26 +45,30 @@ body{
 }
 
 .accordionItem h2{ 
-	margin: 0; 
+	margin: 10px; 
 	font-size: 1.1em; 
 	padding: 0.4em; 
-	color: #fff; 
-	background-color: #944;
+	color: #000; 
+	background:rgba(255,255,255,0.5);
 	border-bottom: 1px solid #66d; 
 }
 .accordionItem h2:hover{ 
 	cursor: pointer; 
 }
 .accordionItem div{ 
-	margin: 0; 
+	margin: 10px; 
 	padding: 1em 0.4em; 
-	background-color: #eef; 
+	/*background-color: #A69885;*/
+	background:rgba(255,255,255,0.5);
 	border-bottom: 1px solid #66d; 
 }
 .accordionItem.hide h2{ 
 	color: #000; 
-	background-color: #88f; 
+	background:rgba(255,255,255,0.5); 
 }
 .accordionItem.hide div{ 
 	display: none;
+}
+.first{
+	text-indent:1em;
 }

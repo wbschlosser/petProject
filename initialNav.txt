@@ -1,0 +1,38 @@
+Navigation code from my personal site:
+
+  <nav id="replacement">
+      <ul>
+       <li id="home"><a href="index.html" data-section="main"><span>home</span></a> </li>
+       <li id="works"><a href="work.html" data-section="work"><span>work</span></a> </li>
+       <li id="contacts"><a href="contact.html"  data-section="contact"><span>contact</span></a> </li>
+      </ul>
+    </nav>
+
+
+
+Navigation styles from my personal site:
+
+#replacement {
+width: 56px;
+position: fixed;
+top: 10px;
+right: 100px;
+z-index: 100;
+}
+
+#replacement ul {
+list-style-type: none;
+margin-left: 0;
+padding-left: 0;
+}
+
+#replacement a {
+text-decoration: none;
+display:block;
+height: 56px;
+width: 56px;
+}
+
+#replacement span {
+visibility: hidden;
+}

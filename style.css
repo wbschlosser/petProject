@@ -1,20 +1,28 @@
 @CHARSET "ISO-8859-1";
 
-.nav{
-	text-align:center;
-}
+
 body{
 	margin-left:auto;
 	margin-right:auto;
-	width:900px;
+	font-family: 'Signika', sans-serif
+	
+	
 }
 
 .banner{/*the main logo goes here*/
 	background-position:center;
 	margin-left:auto;
 	margin-right:auto;
+	background-repeat: repeat-x;
+
 }
+
+/* navigation */
+
+
+/* main section */
 .mainsect{
+	width: 900px;
 	background-color:#FFFFFF;
 	display:block;
 	margin:0px 0px 0px 70px;
@@ -22,25 +30,47 @@ body{
 	height:auto !important;
 }
 
+/* dogs content area */
 #dogs{
-	background-color:#EA9B47;
+	background-color: #EA9B47;
+	color: black;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 25px;
 }
 
+/* cats content area */
 #cats{
 	background-color:#96CEC7;
+	color: black;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 25px;
 }
+
+/* did you know content area */
 #know{
 	background-color:#FEC96A;
+	color: black;
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 25px;
 }
+
+/* contact content area */
 #contact{
 	background-color:#939597;
+	color: grey;
+	padding-left: 50px;
+	padding-top: 50px;
 }
 .accordionItem{
 	width:600px;
 	margin-left:auto;
 	margin-right:auto;
 	margin:10px; 
-	font-size:1.1em; 
+	font-size:1em; 
+	font-family: 'Signika', sans-serif;
 	padding:1em;
 	background:rgba(255,255,255,0.5);
 	border-bottom:1px solid #66d; 

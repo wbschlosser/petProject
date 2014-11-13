@@ -1,0 +1,18 @@
+11-13-14
+Hey!
+
+So I did the best I could thus far. As I said I realized I forgot a lot about coding over the summer because I didn’t do it. 
+
+I added a plain text file with the navigation information from my personal site since that is style I wanted to go for. It’s the file called initialNav.txt
+
+Still need to get the color to span the entire page along with the images.
+
+I’ve added the icons for the navigation. 
+
+I’ll keep trucking along. Hopefully we can finish before thanksgiving if not by december 1st. 
+
+As far as content I realized I have that stuff on my desktop so I can’t access it till I get home. 
+
+Happy coding!
+
+-S

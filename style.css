@@ -5,16 +5,18 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 	font-family: 'Signika', sans-serif
-	
-	
+}
+.align{
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Signika', sans-serif;
 }
 
 .banner{/*the main logo goes here*/
-	background-position:center;
-	margin-left:auto;
-	margin-right:auto;
+	margin-left: auto;
+	margin-right: auto;
 	background-repeat: repeat-x;
-
+	background-color: #000000;
 }
 
 /* navigation */
@@ -22,12 +24,10 @@ body{
 
 /* main section */
 .mainsect{
-	width: 900px;
 	background-color:#FFFFFF;
 	display:block;
-	margin:0px 0px 0px 30px;
-	vertial-align:top;
-	height:auto !important;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /* dogs content area */
@@ -64,17 +64,23 @@ body{
 	padding-left: 50px;
 	padding-top: 50px;
 }
+#extra{/*used to get the size right for the "Did you know?" header*/
+	width:240px;
+}
 .accordionItem{
-	width:600px;
 	margin-left:auto;
 	margin-right:auto;
-	margin:10px; 
+	width:600px;
 	font-size:1em; 
 	font-family: 'Signika', sans-serif;
 	padding:1em;
 	background:rgba(255,255,255,0.5);
 	border-bottom:1px solid #66d; 
 	border-radius:25px;
+}
+h1.accordionItem{
+	width:220px;
+	font-size:2em;
 }
 .accordionItem h2:hover{ 
 	cursor: pointer; 

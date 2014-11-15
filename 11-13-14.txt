@@ -16,3 +16,8 @@ As far as content I realized I have that stuff on my desktop so I can’t access
 Happy coding!
 
 -S
+
+11/15/14
+The issue with having the images span the entire page is that they'd, potentially, be a huge resource for people on mobile networks to view. The page, for me anyways, is at least 1920x1080, and if we're going to have the images be that size mobile devices are going to have a hard time downloading an image that big, much less 4 of them. It's totally up to you.
+
+I did make the banner background black, and all that I need left to do is work on the navigation bit. It's going to take a bit of thinking, I'll have to look at your other site to try to get it. Hopefully it doesn't require any 3rd party javascript, because I wouldn't know where to begin getting that.

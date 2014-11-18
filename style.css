@@ -4,7 +4,8 @@
 body{
 	margin-left:auto;
 	margin-right:auto;
-	font-family: 'Signika', sans-serif
+	font-family: 'Signika', sans-serif;
+	background-color: #000000;
 }
 .align{
 	margin-left:auto;
@@ -15,8 +16,9 @@ body{
 .banner{/*the main logo goes here*/
 	margin-left: auto;
 	margin-right: auto;
+	width: 683px;
 	background-repeat: repeat-x;
-	background-color: #000000;
+
 }
 
 /* navigation */

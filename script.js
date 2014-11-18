@@ -3,7 +3,6 @@ images[0]="images/petpedia-image1.jpg";
 images[1]="images/petpedia-image2.jpg";
 images[2]="images/petpedia-image3.jpg";
 images[3]="images/petpedia-image4.jpg";
-images[4]="images/petpedia-image5.jpg";
 setInterval("changeImage()",5000);
 var fade = true;
 var x=0;

@@ -53,6 +53,42 @@ width: 56px;
 visibility: hidden;
 }
 
+#home a {
+background-image: url(../images/home.png);
+height: 56px;
+width: 56px;
+}
+
+#home a:hover{
+background-image: url(../images/homehover.png);
+height: 56px;
+width: 56px;
+}
+
+#works a {
+
+background-image: url(../images/work.png);
+height: 56px;
+width: 56px;
+}
+
+#works a:hover{
+background-image: url(../images/workhover.png);
+height: 56px;
+width: 56px;
+}
+
+#contacts a {
+background-image: url(../images/contact.png);
+height: 56px;
+width: 56px;
+}
+
+#contacts a:hover{
+background-image: url(../images/contacthover.png);
+height: 56px;
+width: 56px;
+}
 
 
 /* main section */

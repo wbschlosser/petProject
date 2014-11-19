@@ -74,6 +74,7 @@ background-image: url(images/dogicon-hover.png);
 height: 54px;
 width: 54px;
 }
+
 #catNav a {
 background-image: url(images/caticon.png);
 height: 54px;
@@ -172,7 +173,7 @@ padding-bottom: 25px;
  
 /* contact content area */
 #contact{
-background-color:#939597;
+background-color:#A69885;
 color: grey;
 padding-left: 50px;
 padding-top: 50px;

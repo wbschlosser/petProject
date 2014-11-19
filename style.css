@@ -22,7 +22,11 @@ body{
 }
 
 /* navigation */
-
+#replacement{
+	list-style-type: none;
+	margin-left: 0;
+	margin-right: 0;
+}
 
 /* main section */
 .mainsect{

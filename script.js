@@ -71,8 +71,6 @@ function getFirstChildWithTagName( element, tagName ) {
 		if ( element.childNodes[i].nodeName == tagName ) return element.childNodes[i];
 	}
 }
-<<<<<<< HEAD
-=======
 
 /*Navigation script*/
 $(window).resize(function(){
@@ -95,5 +93,3 @@ $(window).resize(function(){
 	el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";
 		}
 	});
-	
->>>>>>> origin/master

@@ -29,7 +29,7 @@ body{
 }
 
 #replacement {
-width: 56px;
+width: 54px;
 position: fixed;
 top: 10px;
 right: 100px;
@@ -45,8 +45,8 @@ padding-left: 0;
 #replacement a {
 text-decoration: none;
 display:block;
-height: 56px;
-width: 56px;
+height: 54px;
+width: 54px;
 }
 
 #replacement span {
@@ -54,40 +54,63 @@ visibility: hidden;
 }
 
 #home a {
-background-image: url(../images/home.png);
-height: 56px;
-width: 56px;
+background-image: url(images/homeicon.png);
+height: 54px;
+width: 54px;
 }
 
 #home a:hover{
-background-image: url(../images/homehover.png);
-height: 56px;
-width: 56px;
+background-image: url(images/homeicon.png);
+height: 54px;
+width: 54px;
 }
 
-#works a {
+#dogNav a {
 
-background-image: url(../images/work.png);
-height: 56px;
-width: 56px;
+background-image: url(images/dogicon.png);
+height: 54px;
+width: 54px;
 }
 
-#works a:hover{
-background-image: url(../images/workhover.png);
-height: 56px;
-width: 56px;
+#dogNav a:hover{
+background-image: url(images/dogicon-hover.png);
+height: 54px;
+width: 54px;
+}
+#catNav a {
+
+background-image: url(images/caticon.png);
+height: 54px;
+width: 54px;
 }
 
-#contacts a {
-background-image: url(../images/contact.png);
-height: 56px;
-width: 56px;
+#catNav a:hover{
+background-image: url(images/caticon-hover.png);
+height: 54px;
+width: 54px;
 }
 
-#contacts a:hover{
-background-image: url(../images/contacthover.png);
-height: 56px;
-width: 56px;
+#knowNav a {
+background-image: url(images/knowicon.png);
+height: 54px;
+width: 54px;
+}
+
+#knowNav a:hover{
+background-image: url(images/knowicon-hover.png);
+height: 54px;
+width: 54px;
+}
+#contactNav a {
+background-image: url(images/contacticon.png);
+height: 54px;
+width: 54px;
+}
+
+#contactNav a:hover{
+background-image: url(images/contacticon-hover.png);
+height: 54px;
+width: 54px;
 }
 
 

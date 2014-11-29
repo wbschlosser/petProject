@@ -183,6 +183,13 @@ height: 500px;
 #extra{/*used to get the size right for the "Did you know?" header*/
 width:240px;
 }
+#comment{
+	color:black;
+}
+#comBox{
+	width:500px;
+	height:150px;
+}
 .accordionItem{
 margin-left:auto;
 margin-right:auto;

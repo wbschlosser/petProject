@@ -15,20 +15,6 @@ function changeImage(){
 		x=0;
 	}
 }
-/*
-function fadeImg(el, val, fade){
-	if(fade===true){
-		val--;
-	}
-	else{
-		val++;
-	}
-	if(val > 0 && val < 100){
-		el.style.opacity = val/100;
-		setTimeout(function(){fadeImg(el,val,fade);},10);
-	}
-}
-*/
 
 /*Accordion magic*/
 var accordionItems = new Array();
@@ -93,3 +79,10 @@ $(window).resize(function(){
 	el.style.visibility = (el.style.visibility == "visible") ? "hidden" : "visible";
 		}
 	});
+
+/*clears the contact fields. Eventually they'll send emails but we're lazy*/
+function Clear(){
+	document.getElementById("name").vaule= "";
+	document.getElementById("email").vaule= "";
+	document.getElementById("comment").value= "";
+}

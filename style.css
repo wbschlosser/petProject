@@ -227,3 +227,17 @@ display: none;
 .first{
 text-indent:1em;
 }
+
+form{
+	margin: 0 auto;
+	width:550px;
+}
+#lazy{
+	margin: 0 auto;
+	width:300px;
+	padding-bottom:25px;
+}
+.imgCenter{
+	margin: 0 auto;
+	width: 1010px;
+}

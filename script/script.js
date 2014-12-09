@@ -33,7 +33,7 @@ function init() {
     }
 
       // Hide all accordion item bodies except the first
-    for ( var i = 1; i < accordionItems.length; i++ ) {
+    for ( var i = 0; i < accordionItems.length; i++ ) {
         accordionItems[i].className = 'accordionItem hide';
     }
 }

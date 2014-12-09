@@ -20,6 +20,19 @@ background-repeat: repeat-x;
 z-index: 0;
 }
  
+ h1{
+ color: black;
+ }
+
+.content{
+height: 400px;
+}
+ 
+ .content img{
+ margin-right: 15px;
+ float: left;
+ }
+ 
 /* navigation */
 #replacement{
 list-style-type: none;
